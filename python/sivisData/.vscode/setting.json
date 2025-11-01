@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "../../../../../python/commonVenv/Scripts/python.exe",
+    "python.analysis.autoImportCompletions": true,
+    "python.languageServer": "Pylance",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
